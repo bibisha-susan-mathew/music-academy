@@ -46,13 +46,13 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="web1\web1img.jpg" class="d-block w-100" alt="..." height="500" width="5">
+        <img src="web1\web1img.jpg" class="d-block w-100" alt="..." height="168" width="300" >
       </div>
       <div class="carousel-item">
-        <img src="web1\web1img2.jpg" class="d-block w-100" alt="..."  height="500" width="5">
+        <img src="web1\web1img2.jpg" class="d-block w-100" alt="..."  height="168" width="300">
       </div>
       <div class="carousel-item">
-        <img src="web1\web1img3.jpg" class="d-block w-100" alt="..." height="500" width="5">
+        <img src="web1\web1img3.jpg" class="d-block w-100" alt="..." height="168" width="300">
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-bs-slide="prev">
