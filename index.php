@@ -38,6 +38,10 @@
 <center><span class="badge rounded-pill bg-danger">BEST CLASSES</span> <span class="badge rounded-pill bg-danger">GOOD TEACHERS</span><span class="badge rounded-pill bg-danger">AFFORDABLE FEE </span></center>
  <hr>
  <h2><b> <center>“Without music, life would be a mistake”<br>-Friedrich Nietzsche.</center></b></h2>
+ <div class="container">
+   <div class="row">
+     <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4"></div>
+     <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
  <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
     <ol class="carousel-indicators">
       <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"></li>
@@ -64,6 +68,10 @@
       <span class="visually-hidden">Next</span>
     </a>
   </div>
+  </div>
+     <div class="col  col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4"></div>
+   </div>
+ </div>
 <h3>FACILITIES</h3>
 1.a professional quality piano (each piano studio has a professional grade Yamaha U3 piano; our large group room features a Yamaha Grand Piano)
 <br>2.integrated speakers and recording equipment
